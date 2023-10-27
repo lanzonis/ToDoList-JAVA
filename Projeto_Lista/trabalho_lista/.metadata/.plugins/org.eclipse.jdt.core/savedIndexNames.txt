@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+C:\Users\redev\eclipse GUI\Projeto_Lista\trabalho_lista\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1321270967.index
+61890326.index
+118456350.index
